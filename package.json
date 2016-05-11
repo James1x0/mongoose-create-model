@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-create-model",
+  "version": "0.0.1",
+  "description": "Wraps mongoose.model in a try/catch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "James1x0",
+  "license": "MIT"
+}
