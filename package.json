@@ -9,6 +9,7 @@
   "keywords": [
     "mongoose"
   ],
+  "repository": "https://github.com/James1x0/mongoose-create-model",
   "author": "James1x0",
   "license": "MIT"
 }
